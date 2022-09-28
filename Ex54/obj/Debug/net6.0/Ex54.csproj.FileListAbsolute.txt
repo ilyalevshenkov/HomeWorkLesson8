@@ -1,0 +1,15 @@
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex54/bin/Debug/net6.0/Ex54
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex54/bin/Debug/net6.0/Ex54.deps.json
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex54/bin/Debug/net6.0/Ex54.runtimeconfig.json
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex54/bin/Debug/net6.0/Ex54.dll
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex54/bin/Debug/net6.0/Ex54.pdb
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex54/obj/Debug/net6.0/Ex54.csproj.AssemblyReference.cache
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex54/obj/Debug/net6.0/Ex54.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex54/obj/Debug/net6.0/Ex54.AssemblyInfoInputs.cache
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex54/obj/Debug/net6.0/Ex54.AssemblyInfo.cs
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex54/obj/Debug/net6.0/Ex54.csproj.CoreCompileInputs.cache
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex54/obj/Debug/net6.0/Ex54.dll
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex54/obj/Debug/net6.0/refint/Ex54.dll
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex54/obj/Debug/net6.0/Ex54.pdb
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex54/obj/Debug/net6.0/Ex54.genruntimeconfig.cache
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex54/obj/Debug/net6.0/ref/Ex54.dll
