@@ -1,0 +1,15 @@
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex58/bin/Debug/net6.0/Ex58
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex58/bin/Debug/net6.0/Ex58.deps.json
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex58/bin/Debug/net6.0/Ex58.runtimeconfig.json
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex58/bin/Debug/net6.0/Ex58.dll
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex58/bin/Debug/net6.0/Ex58.pdb
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex58/obj/Debug/net6.0/Ex58.csproj.AssemblyReference.cache
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex58/obj/Debug/net6.0/Ex58.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex58/obj/Debug/net6.0/Ex58.AssemblyInfoInputs.cache
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex58/obj/Debug/net6.0/Ex58.AssemblyInfo.cs
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex58/obj/Debug/net6.0/Ex58.csproj.CoreCompileInputs.cache
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex58/obj/Debug/net6.0/Ex58.dll
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex58/obj/Debug/net6.0/refint/Ex58.dll
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex58/obj/Debug/net6.0/Ex58.pdb
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex58/obj/Debug/net6.0/Ex58.genruntimeconfig.cache
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex58/obj/Debug/net6.0/ref/Ex58.dll
