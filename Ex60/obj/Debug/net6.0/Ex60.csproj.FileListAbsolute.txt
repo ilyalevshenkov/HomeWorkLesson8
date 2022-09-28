@@ -1,0 +1,15 @@
+/Users/ilyalevshenkov/Projects/Lesson8/Ex/Ex60/bin/Debug/net6.0/Ex60
+/Users/ilyalevshenkov/Projects/Lesson8/Ex/Ex60/bin/Debug/net6.0/Ex60.deps.json
+/Users/ilyalevshenkov/Projects/Lesson8/Ex/Ex60/bin/Debug/net6.0/Ex60.runtimeconfig.json
+/Users/ilyalevshenkov/Projects/Lesson8/Ex/Ex60/bin/Debug/net6.0/Ex60.dll
+/Users/ilyalevshenkov/Projects/Lesson8/Ex/Ex60/bin/Debug/net6.0/Ex60.pdb
+/Users/ilyalevshenkov/Projects/Lesson8/Ex/Ex60/obj/Debug/net6.0/Ex60.csproj.AssemblyReference.cache
+/Users/ilyalevshenkov/Projects/Lesson8/Ex/Ex60/obj/Debug/net6.0/Ex60.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyalevshenkov/Projects/Lesson8/Ex/Ex60/obj/Debug/net6.0/Ex60.AssemblyInfoInputs.cache
+/Users/ilyalevshenkov/Projects/Lesson8/Ex/Ex60/obj/Debug/net6.0/Ex60.AssemblyInfo.cs
+/Users/ilyalevshenkov/Projects/Lesson8/Ex/Ex60/obj/Debug/net6.0/Ex60.csproj.CoreCompileInputs.cache
+/Users/ilyalevshenkov/Projects/Lesson8/Ex/Ex60/obj/Debug/net6.0/Ex60.dll
+/Users/ilyalevshenkov/Projects/Lesson8/Ex/Ex60/obj/Debug/net6.0/refint/Ex60.dll
+/Users/ilyalevshenkov/Projects/Lesson8/Ex/Ex60/obj/Debug/net6.0/Ex60.pdb
+/Users/ilyalevshenkov/Projects/Lesson8/Ex/Ex60/obj/Debug/net6.0/Ex60.genruntimeconfig.cache
+/Users/ilyalevshenkov/Projects/Lesson8/Ex/Ex60/obj/Debug/net6.0/ref/Ex60.dll
