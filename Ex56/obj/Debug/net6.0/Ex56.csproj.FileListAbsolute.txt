@@ -1,0 +1,15 @@
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex56/bin/Debug/net6.0/Ex56
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex56/bin/Debug/net6.0/Ex56.deps.json
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex56/bin/Debug/net6.0/Ex56.runtimeconfig.json
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex56/bin/Debug/net6.0/Ex56.dll
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex56/bin/Debug/net6.0/Ex56.pdb
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex56/obj/Debug/net6.0/Ex56.csproj.AssemblyReference.cache
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex56/obj/Debug/net6.0/Ex56.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex56/obj/Debug/net6.0/Ex56.AssemblyInfoInputs.cache
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex56/obj/Debug/net6.0/Ex56.AssemblyInfo.cs
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex56/obj/Debug/net6.0/Ex56.csproj.CoreCompileInputs.cache
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex56/obj/Debug/net6.0/Ex56.dll
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex56/obj/Debug/net6.0/refint/Ex56.dll
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex56/obj/Debug/net6.0/Ex56.pdb
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex56/obj/Debug/net6.0/Ex56.genruntimeconfig.cache
+/Users/ilyalevshenkov/Desktop/_IT /Ex/Ex56/obj/Debug/net6.0/ref/Ex56.dll
